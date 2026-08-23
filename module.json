@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": false,
     "name": "dreamslash",
-    "version": "2.0",
+    "version": "2.7",
     "author": "ballzyxx",
     "description": "Valkyrie Dream Slash multi-hit helper for private-server testing.",
     "servers": [
