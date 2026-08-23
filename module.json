@@ -5,7 +5,7 @@
     "author": "ballzyxx",
     "description": "Valkyrie Dream Slash multi-hit helper for private-server testing.",
     "servers": [
-        "https://cdn.jsdelivr.net/gh/ballzyxx/dreamslash@main/"
+        "https://cdn.jsdelivr.net/gh/ballzyxx/dreamslash@v2.7/"
     ],
     "options": {
         "cliName": "dreamslash",
