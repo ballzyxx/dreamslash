@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
     "name": "dreamslash",
-    "version": "2.7",
+    "version": "2.8",
     "author": "ballzyxx",
     "description": "Valkyrie Dream Slash multi-hit helper for private-server testing.",
     "servers": [
-        "https://cdn.jsdelivr.net/gh/ballzyxx/dreamslash@v2.7/"
+        "https://raw.githubusercontent.com/ballzyxx/dreamslash/main/"
     ],
     "options": {
         "cliName": "dreamslash",
